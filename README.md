@@ -1,5 +1,4 @@
-### My name is Sarnab Banerjee and I am currently an under-graduate student if the department of Mechanical Engineering at IIT Kharagpur. I am interested in Data Structures and Algorithms and also currently learning Machine Learning and Computer Vision and aim to contribute in projects for the same.
-
+### My name is Sarnab Banerjee and I am currently an under-graduate student of the department of Mechanical Engineering at IIT Kharagpur. I am interested in DSA, Full Stack Web Development and also into ML, NLP and Computer Vision and aim to contribute in projects for the same.
 <!--
 **banerjee-sarnab/banerjee-sarnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
